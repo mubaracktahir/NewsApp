@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "853744692032",
+    "firebase_url": "https://newsapp-5d63d.firebaseio.com",
+    "project_id": "newsapp-5d63d",
+    "storage_bucket": "newsapp-5d63d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853744692032:android:470144643ca1bd91",
+        "android_client_info": {
+          "package_name": "com.mubaracktahir.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853744692032-rasoq671idbou8oddv46s43di414oif1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mubaracktahir.newsapp",
+            "certificate_hash": "ef2e1284ca0a1f74c155c2379ca862f94cf50516"
+          }
+        },
+        {
+          "client_id": "853744692032-gcvo7vnn3lpsuk7jqe0j7binltvqoovi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhIM4I7N6v9_3oEQ2gZPlNpvoWJYWMcL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853744692032-gcvo7vnn3lpsuk7jqe0j7binltvqoovi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
